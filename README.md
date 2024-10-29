@@ -3,7 +3,7 @@
 
 
 
-### HOW TO CREATE
+### about
 ```
 win serv 10 rdp automation
 ```
